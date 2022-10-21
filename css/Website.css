@@ -1,0 +1,84 @@
+/* Aibiike Omurzakova */
+
+body 
+{
+    font-family: Cambria, Cochin, Georgia, Times, serif;
+    font-size: 1.2em;
+    /*color: #434F59;*/
+    color:#374E55;
+    background-color: #FAF4DF;
+}
+
+h1
+{
+    font-size: 1.5em;
+}
+
+h2
+{
+    color: slategray;
+    font-size: 1.3em;
+    background-color: moccasin;
+}
+
+p
+{
+    font-size: 1em;
+}
+
+ol
+{
+    list-style-type: upper-alpha;
+}
+
+ul
+{
+    list-style: square;
+}
+
+table
+{
+    color:lightslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    border-color:#c27b54;
+    border-style: dotted;
+    border-width: medium;
+    background-color: #FAF0E6;
+}
+
+th
+{
+    color: slategrey;
+}
+
+a:link
+{
+    color: #735632;
+
+}
+
+a:visited
+{
+    color: #A28CCE;
+}
+
+a:hover
+{
+    opacity: 0.5;
+}
+
+div
+{
+    text-align: right;
+}
+
+footer
+{
+    background-color:antiquewhite;
+    color:sienna;
+}
+
